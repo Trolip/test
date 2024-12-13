@@ -1,3 +1,3 @@
-funtion type{
+funtion add-common{
   write-host "HI"
 }
