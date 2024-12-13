@@ -1,2 +1,2 @@
-import-module ./kit.psm1
-type
+import-module C:\Users\Downloads\kit.psm1
+add-common
