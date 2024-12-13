@@ -1,1 +1,1 @@
-write-host "Hi"
+import-module ./kit.psm1
