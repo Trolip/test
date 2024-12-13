@@ -1,3 +1,3 @@
-funtion add-common{
+function add-common{
   write-host "HI"
 }
